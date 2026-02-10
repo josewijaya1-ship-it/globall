@@ -1,5 +1,5 @@
 import streamlit as st
-import google-generativeai as genai
+import google.generativeai as genai
 
 # --- KONFIGURASI HALAMAN ---
 st.set_page_config(page_title="Guru Bahasa Universal AI", page_icon="🌎", layout="wide")
